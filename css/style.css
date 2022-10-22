@@ -143,14 +143,14 @@ header {
 }
 
 h1 {
-    font-size: calc(2rem + 8vw);
-    margin-top: 70px;
+    font-size: calc(2rem + 6vw);
+    margin-top: 90px;
     font-family: "font-bold", serif;
     letter-spacing: 6px;
     color: #fefefe;
 }
 header h2 {
-    font-size: calc(1rem + 6.5vw);
+    font-size: calc(1rem + 4.5vw);
     margin: 18px 0;
     text-align: left;
 }
